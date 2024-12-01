@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fetch JSON Plugin</title>
+  <script src="driver.js" defer></script>
+  <script src="function.js" defer></script>
+</head>
+<body>
+  <h1>Glide Experimental Code Column Plugin</h1>
+  <p>This plugin fetches a JSON file from a URL and displays its content.</p>
+</body>
+</html>
