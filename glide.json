@@ -1,0 +1,14 @@
+{
+  "name": "Fetch JSON from URL",
+  "description": "Fetch a JSON file from a URL and display its content as a string.",
+  "parameters": {
+    "url": {
+      "type": "string",
+      "description": "The URL of the JSON file to fetch."
+    }
+  },
+  "result": {
+    "type": "string",
+    "description": "The JSON file content as a string."
+  }
+}
